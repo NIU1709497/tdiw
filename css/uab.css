@@ -15,7 +15,7 @@ header p {
     font-family: times, serif;
 }
 
-h1.fancy, h2.fancy, h3.fancy, h4.fancy, h5.fancy, h6.fancy {
+header.fancy{
     color: magenta;
 }
 
